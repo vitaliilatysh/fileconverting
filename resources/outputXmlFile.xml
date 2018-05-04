@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<TESTDC>
+    <IDOC BEGIN="1">
+        <DOC_INF>
+            <TABNAME>DOCUMENT INFORMATION</TABNAME>
+            <CURRENTDATE>05/04/2018</CURRENTDATE>
+        </DOC_INF>
+        <DOC_BODY>
+            <HNUM>8203725796</HNUM>
+            <HCODE>I92178</HCODE>
+            <INF>HINF</INF>
+            <OTHER>HINF2</OTHER>
+            <DOC_DETAIL>
+                <DCRT>0001</DCRT>
+                <DNUM>000003</DNUM>
+                <ACC>NNNNNN</ACC>
+                <ADR>ADR1DETAIL</ADR>
+                <OTHER>OTHERINFO</OTHER>
+            </DOC_DETAIL>
+            <DOC_DETAIL>
+                <DCRT>0002</DCRT>
+                <DNUM>000006</DNUM>
+                <ACC>NNNNNN</ACC>
+                <ADR>ADR2DETAIL</ADR>
+                <OTHER>OTHERINFO</OTHER>
+            </DOC_DETAIL>
+            <DOC_DETAIL>
+                <DCRT>0003</DCRT>
+                <DNUM>000007</DNUM>
+                <ACC>NNNNNN</ACC>
+                <OTHER>OTHERINFO</OTHER>
+            </DOC_DETAIL>
+            <DOC_DETAIL>
+                <DCRT>0004</DCRT>
+                <DNUM>000050</DNUM>
+                <ACC>NNNNNN</ACC>
+                <ADR>ADR4DETAIL</ADR>
+                <OTHER>DEFAULTINFO</OTHER>
+            </DOC_DETAIL>
+        </DOC_BODY>
+    </IDOC>
+</TESTDC>

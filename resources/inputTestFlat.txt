@@ -1,0 +1,5 @@
+000001OMH8203725796     I92178                          HINF                    HINF2    
+000002OMD8203725796     I921000003NNNNNNADR1DETAIL                              OTHERINFO
+000003OMD8203725796     I921000006NNNNNNADR2DETAIL                              OTHERINFO
+000004OMD8203725796     I921000007NNNNNN                                        OTHERINFO
+000005OMD8203725796     I921000050NNNNNNADR4DETAIL                                       
